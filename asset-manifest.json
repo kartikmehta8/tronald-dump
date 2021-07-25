@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tronald-dump/static/css/main.d2de66ac.chunk.css",
+    "main.js": "/tronald-dump/static/js/main.78e36128.chunk.js",
+    "main.js.map": "/tronald-dump/static/js/main.78e36128.chunk.js.map",
+    "runtime-main.js": "/tronald-dump/static/js/runtime-main.2889636d.js",
+    "runtime-main.js.map": "/tronald-dump/static/js/runtime-main.2889636d.js.map",
+    "static/js/2.9aefaa06.chunk.js": "/tronald-dump/static/js/2.9aefaa06.chunk.js",
+    "static/js/2.9aefaa06.chunk.js.map": "/tronald-dump/static/js/2.9aefaa06.chunk.js.map",
+    "static/js/3.5a477875.chunk.js": "/tronald-dump/static/js/3.5a477875.chunk.js",
+    "static/js/3.5a477875.chunk.js.map": "/tronald-dump/static/js/3.5a477875.chunk.js.map",
+    "index.html": "/tronald-dump/index.html",
+    "static/css/main.d2de66ac.chunk.css.map": "/tronald-dump/static/css/main.d2de66ac.chunk.css.map",
+    "static/js/2.9aefaa06.chunk.js.LICENSE.txt": "/tronald-dump/static/js/2.9aefaa06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2889636d.js",
+    "static/js/2.9aefaa06.chunk.js",
+    "static/css/main.d2de66ac.chunk.css",
+    "static/js/main.78e36128.chunk.js"
+  ]
+}
